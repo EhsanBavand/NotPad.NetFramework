@@ -1,0 +1,45 @@
+C:\Users\RSA_Q\OneDrive\Documents\Visual Studio 2017\C#_Projects\WPF_Notepad\WPF_Notepad\bin\Debug\WPF_Notepad.exe.config
+C:\Users\RSA_Q\OneDrive\Documents\Visual Studio 2017\C#_Projects\WPF_Notepad\WPF_Notepad\bin\Debug\WPF_Notepad.exe
+C:\Users\RSA_Q\OneDrive\Documents\Visual Studio 2017\C#_Projects\WPF_Notepad\WPF_Notepad\bin\Debug\WPF_Notepad.pdb
+C:\Users\RSA_Q\OneDrive\Documents\Visual Studio 2017\C#_Projects\WPF_Notepad\WPF_Notepad\obj\Debug\WPF_Notepad.csprojAssemblyReference.cache
+C:\Users\RSA_Q\OneDrive\Documents\Visual Studio 2017\C#_Projects\WPF_Notepad\WPF_Notepad\obj\Debug\MainWindow.g.cs
+C:\Users\RSA_Q\OneDrive\Documents\Visual Studio 2017\C#_Projects\WPF_Notepad\WPF_Notepad\obj\Debug\App.g.cs
+C:\Users\RSA_Q\OneDrive\Documents\Visual Studio 2017\C#_Projects\WPF_Notepad\WPF_Notepad\obj\Debug\WPF_Notepad_MarkupCompile.cache
+C:\Users\RSA_Q\OneDrive\Documents\Visual Studio 2017\C#_Projects\WPF_Notepad\WPF_Notepad\obj\Debug\WPF_Notepad_MarkupCompile.lref
+C:\Users\RSA_Q\OneDrive\Documents\Visual Studio 2017\C#_Projects\WPF_Notepad\WPF_Notepad\obj\Debug\MainWindow.baml
+C:\Users\RSA_Q\OneDrive\Documents\Visual Studio 2017\C#_Projects\WPF_Notepad\WPF_Notepad\obj\Debug\WPF_Notepad.g.resources
+C:\Users\RSA_Q\OneDrive\Documents\Visual Studio 2017\C#_Projects\WPF_Notepad\WPF_Notepad\obj\Debug\WPF_Notepad.Properties.Resources.resources
+C:\Users\RSA_Q\OneDrive\Documents\Visual Studio 2017\C#_Projects\WPF_Notepad\WPF_Notepad\obj\Debug\WPF_Notepad.csproj.GenerateResource.cache
+C:\Users\RSA_Q\OneDrive\Documents\Visual Studio 2017\C#_Projects\WPF_Notepad\WPF_Notepad\obj\Debug\WPF_Notepad.csproj.CoreCompileInputs.cache
+C:\Users\RSA_Q\OneDrive\Documents\Visual Studio 2017\C#_Projects\WPF_Notepad\WPF_Notepad\obj\Debug\WPF_Notepad.exe
+C:\Users\RSA_Q\OneDrive\Documents\Visual Studio 2017\C#_Projects\WPF_Notepad\WPF_Notepad\obj\Debug\WPF_Notepad.pdb
+D:\MyLearning\JohnAbotte\IPD-15\11-DotNETPrograming\TestMySelf\Day07WPF_Notepad(Kelly)\WPF_Notepad\bin\Debug\WPF_Notepad.exe.config
+D:\MyLearning\JohnAbotte\IPD-15\11-DotNETPrograming\TestMySelf\Day07WPF_Notepad(Kelly)\WPF_Notepad\bin\Debug\WPF_Notepad.exe
+D:\MyLearning\JohnAbotte\IPD-15\11-DotNETPrograming\TestMySelf\Day07WPF_Notepad(Kelly)\WPF_Notepad\bin\Debug\WPF_Notepad.pdb
+D:\MyLearning\JohnAbotte\IPD-15\11-DotNETPrograming\TestMySelf\Day07WPF_Notepad(Kelly)\WPF_Notepad\obj\Debug\WPF_Notepad.csprojAssemblyReference.cache
+D:\MyLearning\JohnAbotte\IPD-15\11-DotNETPrograming\TestMySelf\Day07WPF_Notepad(Kelly)\WPF_Notepad\obj\Debug\MainWindow.g.cs
+D:\MyLearning\JohnAbotte\IPD-15\11-DotNETPrograming\TestMySelf\Day07WPF_Notepad(Kelly)\WPF_Notepad\obj\Debug\App.g.cs
+D:\MyLearning\JohnAbotte\IPD-15\11-DotNETPrograming\TestMySelf\Day07WPF_Notepad(Kelly)\WPF_Notepad\obj\Debug\WPF_Notepad_MarkupCompile.cache
+D:\MyLearning\JohnAbotte\IPD-15\11-DotNETPrograming\TestMySelf\Day07WPF_Notepad(Kelly)\WPF_Notepad\obj\Debug\WPF_Notepad_MarkupCompile.lref
+D:\MyLearning\JohnAbotte\IPD-15\11-DotNETPrograming\TestMySelf\Day07WPF_Notepad(Kelly)\WPF_Notepad\obj\Debug\MainWindow.baml
+D:\MyLearning\JohnAbotte\IPD-15\11-DotNETPrograming\TestMySelf\Day07WPF_Notepad(Kelly)\WPF_Notepad\obj\Debug\WPF_Notepad.g.resources
+D:\MyLearning\JohnAbotte\IPD-15\11-DotNETPrograming\TestMySelf\Day07WPF_Notepad(Kelly)\WPF_Notepad\obj\Debug\WPF_Notepad.Properties.Resources.resources
+D:\MyLearning\JohnAbotte\IPD-15\11-DotNETPrograming\TestMySelf\Day07WPF_Notepad(Kelly)\WPF_Notepad\obj\Debug\WPF_Notepad.csproj.GenerateResource.cache
+D:\MyLearning\JohnAbotte\IPD-15\11-DotNETPrograming\TestMySelf\Day07WPF_Notepad(Kelly)\WPF_Notepad\obj\Debug\WPF_Notepad.csproj.CoreCompileInputs.cache
+D:\MyLearning\JohnAbotte\IPD-15\11-DotNETPrograming\TestMySelf\Day07WPF_Notepad(Kelly)\WPF_Notepad\obj\Debug\WPF_Notepad.exe
+D:\MyLearning\JohnAbotte\IPD-15\11-DotNETPrograming\TestMySelf\Day07WPF_Notepad(Kelly)\WPF_Notepad\obj\Debug\WPF_Notepad.pdb
+D:\IPD-15\11-DotNETPrograming\TestMySelf\Day07WPF_Notepad(Kelly)\WPF_Notepad\bin\Debug\WPF_Notepad.exe.config
+D:\IPD-15\11-DotNETPrograming\TestMySelf\Day07WPF_Notepad(Kelly)\WPF_Notepad\bin\Debug\WPF_Notepad.exe
+D:\IPD-15\11-DotNETPrograming\TestMySelf\Day07WPF_Notepad(Kelly)\WPF_Notepad\bin\Debug\WPF_Notepad.pdb
+D:\IPD-15\11-DotNETPrograming\TestMySelf\Day07WPF_Notepad(Kelly)\WPF_Notepad\obj\Debug\WPF_Notepad.csprojAssemblyReference.cache
+D:\IPD-15\11-DotNETPrograming\TestMySelf\Day07WPF_Notepad(Kelly)\WPF_Notepad\obj\Debug\MainWindow.g.cs
+D:\IPD-15\11-DotNETPrograming\TestMySelf\Day07WPF_Notepad(Kelly)\WPF_Notepad\obj\Debug\App.g.cs
+D:\IPD-15\11-DotNETPrograming\TestMySelf\Day07WPF_Notepad(Kelly)\WPF_Notepad\obj\Debug\WPF_Notepad_MarkupCompile.cache
+D:\IPD-15\11-DotNETPrograming\TestMySelf\Day07WPF_Notepad(Kelly)\WPF_Notepad\obj\Debug\WPF_Notepad_MarkupCompile.lref
+D:\IPD-15\11-DotNETPrograming\TestMySelf\Day07WPF_Notepad(Kelly)\WPF_Notepad\obj\Debug\MainWindow.baml
+D:\IPD-15\11-DotNETPrograming\TestMySelf\Day07WPF_Notepad(Kelly)\WPF_Notepad\obj\Debug\WPF_Notepad.g.resources
+D:\IPD-15\11-DotNETPrograming\TestMySelf\Day07WPF_Notepad(Kelly)\WPF_Notepad\obj\Debug\WPF_Notepad.Properties.Resources.resources
+D:\IPD-15\11-DotNETPrograming\TestMySelf\Day07WPF_Notepad(Kelly)\WPF_Notepad\obj\Debug\WPF_Notepad.csproj.GenerateResource.cache
+D:\IPD-15\11-DotNETPrograming\TestMySelf\Day07WPF_Notepad(Kelly)\WPF_Notepad\obj\Debug\WPF_Notepad.csproj.CoreCompileInputs.cache
+D:\IPD-15\11-DotNETPrograming\TestMySelf\Day07WPF_Notepad(Kelly)\WPF_Notepad\obj\Debug\WPF_Notepad.exe
+D:\IPD-15\11-DotNETPrograming\TestMySelf\Day07WPF_Notepad(Kelly)\WPF_Notepad\obj\Debug\WPF_Notepad.pdb
